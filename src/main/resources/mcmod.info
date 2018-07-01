@@ -1,0 +1,13 @@
+[
+{
+  "modid": "aboe-devcapes",
+  "name": "Developer Capes",
+  "description": "Deverloper Capes updated to 1.10.2",
+  "version": "1.0-SNAPSHOT",
+  "mcversion": "${mcversion}",
+  "url": "https://glorantq.me/",
+  "authorList": ["glorantq", "Jadar"],
+  "credits": "The modpack's creators",
+  "logoFile": "aboe.png"
+}
+]
